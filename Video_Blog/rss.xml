@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Video Blog</title>
+    <link>http://www.rso.cornell.edu/foodforthought/Site/Video_Blog/Video_Blog.html</link>
+    <description>If you don’t like reading, then watch the Food for Thought team prepare some of your soon-to-be favorite dishes!</description>
+    <generator>iWeb 2.0.4</generator>
+    <image>
+      <url>http://www.rso.cornell.edu/foodforthought/Site/Video_Blog/Video_Blog_files/bucket_of_berries-13922.gif</url>
+      <title>Video Blog</title>
+      <link>http://www.rso.cornell.edu/foodforthought/Site/Video_Blog/Video_Blog.html</link>
+    </image>
+    <item>
+      <title>How to Cut Avocado</title>
+      <link>http://www.rso.cornell.edu/foodforthought/Site/Video_Blog/Entries/2011/11/30_Blue_bird_day.html</link>
+      <guid isPermaLink="false">9856e7e1-2176-4a4b-a37b-2a2a3511a3dd</guid>
+      <pubDate>Wed, 30 Nov 2011 15:39:30 -0500</pubDate>
+      <description>&lt;a href=&quot;http://www.rso.cornell.edu/foodforthought/Site/Video_Blog/Entries/2011/11/30_Blue_bird_day_files/AvocadoScored2.jpg&quot;&gt;&lt;img src=&quot;http://www.rso.cornell.edu/foodforthought/Site/Video_Blog/Media/AvocadoScored2_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:217px; height:143px;&quot;/&gt;&lt;/a&gt;In addition to being delectable, Avocado’s are also healthy. But they can be hard to cut at times. Check out this video and never deal with avocado cutting pains again!</description>
+      <enclosure url="http://www.rso.cornell.edu/foodforthought/Site/Video_Blog/Entries/2011/11/30_Blue_bird_day_files/AvocadoScored2.jpg" length="26035" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

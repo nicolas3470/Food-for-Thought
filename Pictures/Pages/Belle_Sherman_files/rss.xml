@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Belle Sherman</title>
+    <link>http://www.rso.cornell.edu/foodforthought/Site/Pictures/Pages/Belle_Sherman.html</link>
+    <description>On a monthly basis, Food for Thought members teach local Ithaca elementary school kids about healthy eating and introduce them to new and exotic foods. Here are the results!</description>
+    <item>
+      <link>http://www.rso.cornell.edu/foodforthought/Site/Pictures/Pages/Belle_Sherman.html#0</link>
+      <guid isPermaLink="false">907b0db1-dabf-4e08-b00f-ca2ca969dd9b</guid>
+      <enclosure url="http://www.rso.cornell.edu/foodforthought/Site/Pictures/Pages/Belle_Sherman_files/Media/FFT_36/FFT_36.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.rso.cornell.edu/foodforthought/Site/Pictures/Pages/Belle_Sherman_files/Media/FFT_36/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.rso.cornell.edu/foodforthought/Site/Pictures/Pages/Belle_Sherman_files/Media/FFT_36/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.rso.cornell.edu/foodforthought/Site/Pictures/Pages/Belle_Sherman_files/Media/FFT_36/mip.jpg</iweb:mip-thumbnail>
+    </item>
+  </channel>
+</rss>

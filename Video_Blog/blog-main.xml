@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Video Blog</title>
+    <link>http://www.rso.cornell.edu/foodforthought/Site/Video_Blog</link>
+    <description>If you don&#x2019;t like reading, then watch the Food for Thought team prepare some of your soon-to-be favorite dishes!</description>
+    <item>
+      <title>How to Cut Avocado</title>
+      <link>http://www.rso.cornell.edu/foodforthought/Site/Video_Blog/Entries/2011/11/30_Blue_bird_day.html</link>
+      <guid isPermaLink="false">9856e7e1-2176-4a4b-a37b-2a2a3511a3dd</guid>
+      <pubDate>Wed, 30 Nov 2011 15:39:30 -0500</pubDate>
+      <description>In addition to being delectable, Avocado&#x2019;s are also healthy. But they can be hard to cut at times. Check out this video and never deal with avocado cutting pains again!</description>
+      <iweb:image href="Media/AvocadoScored2.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://www.rso.cornell.edu/foodforthought/Site/Video_Blog/Entries/2011/11/30_Blue_bird_day.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://www.rso.cornell.edu/foodforthought/Site/Video_Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

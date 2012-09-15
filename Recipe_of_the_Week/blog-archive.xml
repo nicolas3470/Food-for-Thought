@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Recipe of the Week</title>
+    <link>http://www.rso.cornell.edu/foodforthought/Site/Recipe_of_the_Week</link>
+    <description>Looking for international variety, tropical wonders, or simply something new? Follow our Recipe of the Week blog and discover something new! </description>
+    <item>
+      <title>Holiday Trifle</title>
+      <link>http://www.rso.cornell.edu/foodforthought/Site/Recipe_of_the_Week/Entries/2011/10/5_Challah_2.html</link>
+      <guid isPermaLink="false">0a848548-1b26-40d8-99ea-97b40405c084</guid>
+      <pubDate>Wed, 5 Oct 2011 18:19:37 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.rso.cornell.edu/foodforthought/Site/Recipe_of_the_Week/Entries/2011/10/5_Challah_2.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Challah</title>
+      <link>http://www.rso.cornell.edu/foodforthought/Site/Recipe_of_the_Week/Entries/2011/9/28_Challah.html</link>
+      <guid isPermaLink="false">d6b5f53c-c7df-4e53-be93-5d3164fd26c0</guid>
+      <pubDate>Wed, 28 Sep 2011 00:00:00 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.rso.cornell.edu/foodforthought/Site/Recipe_of_the_Week/Entries/2011/9/28_Challah.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://www.rso.cornell.edu/foodforthought/Site/Recipe_of_the_Week</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

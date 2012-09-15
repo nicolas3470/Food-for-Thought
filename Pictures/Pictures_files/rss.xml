@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Pictures</title>
+    <link>http://www.rso.cornell.edu/foodforthought/Site/Pictures/Pictures.html</link>
+    <description>Click on our photo albums to see us spreading culture and love in action!</description>
+    <item>
+      <title>Belle Sherman</title>
+      <link>http://www.rso.cornell.edu/foodforthought/Site/Pictures/Pages/Belle_Sherman.html</link>
+      <guid isPermaLink="false">3642f03d-e98a-43ab-be3b-f6bd2b13d60c</guid>
+    </item>
+    <item>
+      <title>Love the World 2011</title>
+      <link>http://www.rso.cornell.edu/foodforthought/Site/Pictures/Pages/Love_the_World_2011.html</link>
+      <guid isPermaLink="false">ecafd544-7d4e-47ec-a982-fc7a74bd8fc2</guid>
+    </item>
+    <item>
+      <title>Love the World 2010</title>
+      <link>http://www.rso.cornell.edu/foodforthought/Site/Pictures/Pages/Love_the_World_2010.html</link>
+      <guid isPermaLink="false">d8da0c5c-4fe4-4d18-b98a-6449ed79d34f</guid>
+    </item>
+    <item>
+      <title>Love the World 2009</title>
+      <link>http://www.rso.cornell.edu/foodforthought/Site/Pictures/Pages/Love_the_World_2009.html</link>
+      <guid isPermaLink="false">a53bbcf7-5c99-412e-8aaf-38e8786e01d6</guid>
+    </item>
+  </channel>
+</rss>

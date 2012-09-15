@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="EE10AF8C-49F3-4D0D-B6DB-F1F658F1E18C">
+  <lastEdited clientType="local-build-20120131" date="2012-01-31 22:42:26 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Holiday Trifle&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, October 5, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>By: Stella Zedman&#xA0;&#xD;&#xD;A traditional trifle of berries, peaches and bananas, layered between slices of sponge cake, vanilla pudding and whipped cream, is sure to impress your guests and make a sensational centerpiece for your holiday sweet table.&lt;b&gt;&#xD;&#xD;&lt;/b&gt;&lt;b&gt;Ingredients&#xD;&lt;/b&gt;	&#x2022;	1 recipe Golden Yellow Cake (or purchased pound cake or sponge cake)&#xD;	&#x2022;	6 cups (1.5&#xA0;L) strawberries, raspberries, blueberries, peaches, bananas or any combination (fresh or frozen)&#xD;	&#x2022;	1/4 cup (50 mL) sugar&#xD;	&#x2022;	1 packet vanilla pudding mix, prepared&#xD;	&#x2022;	1/4 cup (50 mL) sherry or liqueur (any kind you like)&#xD;	&#x2022;	1 cup (250 mL) raspberry or apricot jam&#xD;	&#x2022;	2 cups (500 mL) whipping cream&#xD;	&#x2022;	additional whole berries or fruit for decorating&#xD;&#xD;&lt;b&gt;Directions&#xD;&lt;/b&gt;	1.	Cut the cake into slices (uneven or ragged is fine). Prepare whatever fruit you're using and cut into 1/2-inch (1-cm) pieces, if necessary. Place in a bowl and toss fruit with the sugar. Prepare the vanilla pudding. You'll need an attractive glass bowl, about 8 inches (20 cm) in diameter. Arrange about half of the cake pieces to cover the bottom of the bowl and sprinkle with about half of the sherry or liqueur. Spread cake pieces with half of the jam, then top with half of the fruit.&#xD;	2.	Cover the fruit with half of the vanilla pudding, followed by half of the whipped cream. Repeat the layers: the remaining cake, sherry, jam, fruit and pudding.&#xD;	3.	Finally, cover the top completely with the remaining whipped cream. Decorate with additional whole berries or fruit pieces. Cover with plastic wrap and refrigerate for at least 6 hours or overnight before serving.&#xD;&#xD;Source: &lt;a href="http://allrecipes.com/Recipe/challah-i/detail.aspx"&gt;http://recipes.kaboose.com/holiday-trifle.html&lt;/a&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Challah_2_files/shapeimage_1.jpg" left="0px" top="0px" width="259px" height="194px"/>
+</content>

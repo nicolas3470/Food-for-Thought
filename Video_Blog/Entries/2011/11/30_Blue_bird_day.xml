@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="3F8EFADE-4FAF-4372-B39C-813E6E979682">
+  <lastEdited clientType="local-build-20120131" date="2012-01-31 22:42:26 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;How to Cut Avocado&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, November 30, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;In addition to being delectable, Avocado&#x2019;s are also healthy. But they can be hard to cut at times. Check out this video and never deal with avocado cutting pains again!&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Blue_bird_day_files/shapeimage_1.jpg" left="0px" top="0px" width="324px" height="185px"/>
+</content>
